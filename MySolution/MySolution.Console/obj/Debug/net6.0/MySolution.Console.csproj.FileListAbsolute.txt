@@ -1,0 +1,15 @@
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\bin\Debug\net6.0\MySolution.Console.exe
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\bin\Debug\net6.0\MySolution.Console.deps.json
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\bin\Debug\net6.0\MySolution.Console.runtimeconfig.json
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\bin\Debug\net6.0\MySolution.Console.dll
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\bin\Debug\net6.0\MySolution.Console.pdb
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\obj\Debug\net6.0\MySolution.Console.csproj.AssemblyReference.cache
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\obj\Debug\net6.0\MySolution.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\obj\Debug\net6.0\MySolution.Console.AssemblyInfoInputs.cache
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\obj\Debug\net6.0\MySolution.Console.AssemblyInfo.cs
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\obj\Debug\net6.0\MySolution.Console.csproj.CoreCompileInputs.cache
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\obj\Debug\net6.0\MySolution.Console.dll
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\obj\Debug\net6.0\refint\MySolution.Console.dll
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\obj\Debug\net6.0\MySolution.Console.pdb
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\obj\Debug\net6.0\MySolution.Console.genruntimeconfig.cache
+C:\Users\jackf\VSCodeFiles\MySolution\MySolution.Console\obj\Debug\net6.0\ref\MySolution.Console.dll
