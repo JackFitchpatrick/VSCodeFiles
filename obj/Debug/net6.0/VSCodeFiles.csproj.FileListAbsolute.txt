@@ -1,0 +1,15 @@
+C:\Users\jackf\VSCodeFiles\bin\Debug\net6.0\VSCodeFiles.exe
+C:\Users\jackf\VSCodeFiles\bin\Debug\net6.0\VSCodeFiles.deps.json
+C:\Users\jackf\VSCodeFiles\bin\Debug\net6.0\VSCodeFiles.runtimeconfig.json
+C:\Users\jackf\VSCodeFiles\bin\Debug\net6.0\VSCodeFiles.dll
+C:\Users\jackf\VSCodeFiles\bin\Debug\net6.0\VSCodeFiles.pdb
+C:\Users\jackf\VSCodeFiles\obj\Debug\net6.0\VSCodeFiles.csproj.AssemblyReference.cache
+C:\Users\jackf\VSCodeFiles\obj\Debug\net6.0\VSCodeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackf\VSCodeFiles\obj\Debug\net6.0\VSCodeFiles.AssemblyInfoInputs.cache
+C:\Users\jackf\VSCodeFiles\obj\Debug\net6.0\VSCodeFiles.AssemblyInfo.cs
+C:\Users\jackf\VSCodeFiles\obj\Debug\net6.0\VSCodeFiles.csproj.CoreCompileInputs.cache
+C:\Users\jackf\VSCodeFiles\obj\Debug\net6.0\VSCodeFiles.dll
+C:\Users\jackf\VSCodeFiles\obj\Debug\net6.0\refint\VSCodeFiles.dll
+C:\Users\jackf\VSCodeFiles\obj\Debug\net6.0\VSCodeFiles.pdb
+C:\Users\jackf\VSCodeFiles\obj\Debug\net6.0\VSCodeFiles.genruntimeconfig.cache
+C:\Users\jackf\VSCodeFiles\obj\Debug\net6.0\ref\VSCodeFiles.dll
